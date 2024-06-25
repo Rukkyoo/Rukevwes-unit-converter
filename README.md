@@ -1,22 +1,19 @@
-# Rukevwes-unit-converter
+# Getting Started
+Install the dependencies and run the project
+```
+npm install
+npm start
+```
 
-## Features
+Head over to https://vitejs.dev/ to learn more about configuring vite
+## About Scrimba
 
-- Convert between various units: pounds, kilograms, meters, liters, feet, and gallons.
-- Simple and intuitive user interface.
-- Responsive design for use on various devices.
-- Built with HTML, CSS and JS.
+At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
+If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
+The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
 
-## Usage
+- [Our courses](https://scrimba.com/allcourses)
+- [The Frontend Career Path](https://scrimba.com/learn/frontend)
+- [Become a Scrimba Pro member](https://scrimba.com/pricing)
 
-Simply enter the value you wish to convert and click on the convert button.
-
-## Contributing
-
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. 
-
-## Contact
-
-Rukkyoo - [rukkyomonedo@gmail.com]
+Happy Coding!
