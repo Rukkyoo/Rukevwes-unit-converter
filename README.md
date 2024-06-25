@@ -1,19 +1,23 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# Unit Converter
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+Welcome to the Unit Converter project! This simple unit converter app allows you to convert values between different units such as pounds, kilograms, meters, liters, feet, and gallons. The project is built using HTML, CSS, and JavaScript.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## Features
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+- Convert between various units: pounds, kilograms, meters, liters, feet, and gallons.
+- Simple and intuitive user interface.
+- Responsive design for use on various devices.
 
-Happy Coding!
+## Usage
+
+Simply enter the value you wish to convert and click on the convert button and then an array of values for the different units will be displayed.
+
+
+## Contributing
+
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+If you have a suggestion that would make this better, please fork the repo and create a pull request. 
+
+## Contact
+
+Rukkyoo - [rukkyomonedo@gmail.com]
